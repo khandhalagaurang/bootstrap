@@ -1,0 +1,41 @@
+.sec1 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(./img/hero-bg.jpeg);
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.gaurang::after {
+  content: "";
+  width: 100px;
+  height: 4px;
+  background-color: #1e00ff;
+  position: absolute;
+  top: 90%;
+}
+
+.gk {
+  width: 70%;
+  margin: auto;
+}
+
+.khandhala {
+  text-align: center;
+}
+
+.div {
+  z-index: -1;
+}
+
+.map {
+  margin: auto;
+}
+
+
+
+.carasoul{
+  height: 600px;
+}

@@ -1,0 +1,9 @@
+.section1{
+  height: 100vh;
+  background-image:url(./photos/hero-bg.jpg);
+  background-repeat:no-repeat ;
+  background-size:cover;
+}
+header{
+  z-index: 1;
+}
